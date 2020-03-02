@@ -1,0 +1,16 @@
+{
+    "cmake.configureOnOpen": true,
+    "testExplorer.addToEditorContextMenu": true,
+    "workbench.colorTheme": "Darcula Extended",
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "editor.fontFamily": "Menlo",
+    "cmakeExplorer.buildDir": "vs-code-build",
+    "cmakeExplorer.buildConfig": "Debug",
+    "cmake.buildDirectory": "${workspaceFolder}/vs-code-build",
+    "cmake.installPrefix": "${workspaceFolder}/vs-code-build",
+    "testExplorer.showOnRun": true,
+    "testExplorer.sort": "byLabel",
+    "C_Cpp.loggingLevel": "Debug"
+}

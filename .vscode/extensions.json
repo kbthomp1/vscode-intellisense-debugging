@@ -1,0 +1,20 @@
+{
+    "recommendations": [
+        "cheshirekow.cmake-format",
+        "hbenl.vscode-test-explorer",
+        "IBM.output-colorizer",
+        "krvajalm.linter-gfortran",
+        "lextudio.restructuredtext",
+        "matepek.vscode-catch2-test-adapter",
+        "ms-python.python",
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools",
+        "pejmannikram.vscode-auto-scroll",
+        "smlombardi.darcula-extended",
+        "twxs.cmake",
+        "vscodevim.vim",
+        "xaver.clang-format",
+        "connorshea.vscode-test-explorer-status-bar",
+        "k--kato.intellij-idea-keybindings",
+        "softwaredotcom.swdc-vscode"
+}
